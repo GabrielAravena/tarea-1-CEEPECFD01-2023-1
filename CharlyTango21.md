@@ -10,3 +10,7 @@ Author: Eduardo Díaz <ediaz@dcc8090.cl>
 Date:   Fri Jul 14 13:32:08 2023 -0400
 
     Update CHANGELOG.md
+
+    # ¿Qué hace `git blame`?
+
+    El comando git blame se utiliza para consultar el estado y la historia de un repo
