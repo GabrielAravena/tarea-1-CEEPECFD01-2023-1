@@ -14,6 +14,8 @@ Ejecute los siguientes pasos:
 10. Haga un nuevo commit
 11. ¿Qué hace el comando `git blame README.md`? Agregue su respuesta en el archivo que usted creó en el paso 2.
 12. Haga un nuevo commit
+13. En el archivo CHANGELOG.md agregue la fecha y el detalle de los cambios que ha realizado
+14. Haga un nuevo commit
 12. Si estuvo trabajando en su PC asegúrese de hacer un push a su fork (`git push origin main`)
 13. Realize un Pull Request hacia este repo, esa será la forma en que entregará su tarea
 14. Fíjese que en este repo hay un ejemplo ejecutado por el profesor, por si tiene dudas de cómo realizar la tarea
