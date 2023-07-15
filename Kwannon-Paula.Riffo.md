@@ -675,4 +675,11 @@ Date:   Fri Jul 14 13:15:23 2023 -0400
 
     Initial commit
 ~
-~ ```
+~
+```
+
+
+
+**¿Qué hace el comando git blame README.md?**
+
+Muestra el hash del último commit que modificó cada linea del archivo, el nombre del usuario y el timestamp correspondinte. 
