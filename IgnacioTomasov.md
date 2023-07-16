@@ -41,3 +41,7 @@ Date:   Fri Jul 14 13:25:13 2023 -0400
 commit 73f3860691eca49bc0ce2bba1f16f164f13650d6
 Author: Eduardo Díaz <ediaz@dcc8090.cl>
 ```
+
+# ¿Qué hace `git blame`?
+
+Entrega usuario, fecha y contenido en el que fue modificada una línea de un archivo específico.
