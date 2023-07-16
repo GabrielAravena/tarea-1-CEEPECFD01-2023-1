@@ -49,3 +49,7 @@ Date:   Fri Jul 14 13:15:23 2023 -0400
 
    Initial commit
 ```
+
+### ¿Qué hace el comando `git blame README.md`?
+
+Muestra el historial de los cambios realizados en un archivo, en este caso del archivo indicado en las instrucciones (README.md). en este listado se muestra junto el hash de confirmación junto a otros datos asociados al cambio.
