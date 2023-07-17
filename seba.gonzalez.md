@@ -51,3 +51,8 @@ Date:   Fri Jul 14 13:15:23 2023 -0400
 
     Initial commit
 ```
+
+
+# ¿Qué hace `git blame`?
+
+Muestra los datos del desarrollador que hizo el último cambio en cada línea de código del archivo respectivo.
