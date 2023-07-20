@@ -27,4 +27,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 
 |Nombre|Fecha|Blame Hash|
 |------|-----|----------|
-|Diego Sepúlveda Soto|19 de julio de 2023|**pendiente**|
+|Diego Sepúlveda Soto|19 de julio de 2023|200351b7|
