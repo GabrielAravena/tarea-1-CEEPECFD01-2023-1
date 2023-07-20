@@ -47,3 +47,7 @@ Author: Eduardo Díaz <ediaz@dcc8090.cl>
 Date:   Fri Jul 14 13:15:23 2023 -0400
 
     Initial commit
+
+
+GIT BLAME:
+El comando git blame entrega información de cada línea cambiada en un archivo al cual se le hizo commit. Entrega un hash + el usuario que lo hizo y la modificación. En este caso git blame README.md, me entregó la info o historial de ese archivo particular.
