@@ -1,1 +1,0 @@
-Johann Edgardo Llanos Fariña
