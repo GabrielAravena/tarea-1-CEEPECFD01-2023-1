@@ -51,3 +51,13 @@ Date:   Fri Jul 14 13:15:23 2023 -0400
 
     Initial commit
 ```
+
+## ¿Qué hace el comando 'git blame README.md'?
+
+El comando git blame permite conocer quién específicamente realizó cada cambio en el archivo solicitado, no solo mencionando su nombre/usuario sino que también su fecha, hora y el identificador del commit en el cual fue realizado dicho cambio.
+
+Esta herramienta permite visualizar con mayor detalle el historial de cambios de un archivo, ya que podemos conocer qué integrante del equipo, por ejemplo, fue quien realizó el último cambio a una función o clase crítica. Incluso varios entornos de desarrollo nos entregan esta información de manera simple sin ejecutar comandos.
+
+### Ejemplo uso Git Blame en Fleet
+![Ejemplo uso Git Blame en Fleet](./assets/ejemplo%20git%20blame%20fleet.gif)
+
