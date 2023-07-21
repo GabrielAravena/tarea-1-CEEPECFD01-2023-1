@@ -17,3 +17,5 @@ commit da7cd096b5c2e4d1ec5ddcc08c6c8f73cfa896fc
 Author: Eduardo Diaz <ediaz@dcc8090.cl>
 :
 
+¿Qué hace el comando `git blame README.md`?
+Se usa para ver todos cambios en un archivo específico a nivel de linea
