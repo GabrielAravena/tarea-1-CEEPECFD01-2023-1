@@ -52,3 +52,7 @@ Date:   Fri Jul 14 13:15:23 2023 -0400
     Initial commit
 
 ```
+
+# ¿Qué hace `git blame`?
+
+El comando git blame permite visualizar los cambios que han ocurrido en un archivo linea por línea, indicando el autor y fecha de modificación de cada línea.
