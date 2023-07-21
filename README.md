@@ -28,4 +28,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Nombre|Fecha|Blame Hash|
 |------|-----|----------|
 |Eduardo Diaz|14 de julio de 2023|73f38606|
-|Luis Díaz|20 de Julio de 2023||
+|Luis Díaz|20 de Julio de 2023|0cca998f|
