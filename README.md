@@ -21,6 +21,8 @@ Ejecute los siguientes pasos:
 14. Fíjese que en este repo hay un ejemplo ejecutado por el profesor, por si tiene dudas de cómo realizar la tarea
 15. Si las dudas persisten use el foro de u-cursos para realizar sus consultas.
 
+
+
 # Tabla de Respuestas
 
 Deje acá lo solicitado en los pasos 7 y 9
