@@ -68,3 +68,4 @@ Date:   Fri Jul 14 13:15:23 2023 -0400
 
 # ¿Qué hace `git blame`?
 
+El comando 'git blame' muestra línea por línea el archivo entregado como parámetro, agregando a la izquierda de cada línea la última modificación realizada a ésta. La información de las modificaciones incluye el hash del commit que modificó la línea, el autor de la modificación, la fecha y hora en que se realizó la modificación y el número de la línea correspondiente.
