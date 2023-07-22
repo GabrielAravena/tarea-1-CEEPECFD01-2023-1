@@ -48,3 +48,6 @@ Date:   Fri Jul 14 13:15:23 2023 -0400
 
     Initial commit
 
+#Respuestas:
+
+11.- el comando "git blame" realiza una inspección línea a línea del archivo identificando al autor del cambio y mostrando los primeros 8 números identificadores del commit
