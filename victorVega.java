@@ -53,4 +53,8 @@ Date:   Fri Jul 14 13:15:23 2023 -0400
 
 -------------------FIN GIT LOG------------------------
 
+Pregunta y respuesta punto 11 : ¿Qué hace el comando git blame README.md?
+
+R: Este comando sirve para revisar lo que contiene un archivo, con el detalle de cada modificación y la información del autor de cada linea.
+
 */
