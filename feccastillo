@@ -67,3 +67,5 @@ Author: Eduardo Díaz <ediaz@dcc8090.cl>
 Date:   Fri Jul 14 13:15:23 2023 -0400
 
     Initial commit
+
+git blame sirve para ver le historial de cambios de un archivo linea por linea.
