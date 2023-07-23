@@ -1,6 +1,9 @@
-//Victor Sebastián Vega Barrientos
+//Nombre: Victor Sebastián Vega Barrientos
 
 /*
+--------------------GIT LOG---------------------: 
+
+
 commit 8bf7d7381eaba2fba2a783972668f15667b8e5c6 (HEAD -> main)
 Author: Replit user <>
 Date:   Sun Jul 23 05:38:49 2023 +0000
@@ -46,5 +49,8 @@ Date:   Fri Jul 14 13:20:01 2023 -0400
 commit 9b6ce51233265fe7b50d8e3c09ed89c9a8c8bb56
 Author: Eduardo Díaz <ediaz@dcc8090.cl>
 Date:   Fri Jul 14 13:15:23 2023 -0400
+
+
+-------------------FIN GIT LOG------------------------
 
 */
