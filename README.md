@@ -28,4 +28,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Nombre|Fecha|Blame Hash|
 |------|-----|----------|
 |Eduardo Diaz|14 de julio de 2023|73f38606|
-|Cesar Soto|24 de julio de 2023||
+|Cesar Soto|24 de julio de 2023|b9931c76|
