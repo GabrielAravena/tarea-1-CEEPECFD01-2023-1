@@ -28,4 +28,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Nombre|Fecha|Blame Hash|
 |------|-----|----------|
 |Eduardo Diaz|14 de julio de 2023|73f38606|
-|David Carvallo|24 de julio de 2023||
+|David Carvallo|24 de julio de 2023|67ef9cd0|
