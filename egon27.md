@@ -76,3 +76,8 @@ Author: Eduardo Díaz <ediaz@dcc8090.cl>
 Date:   Fri Jul 14 13:15:23 2023 -0400
 
     Initial commit
+
+
+
+
+El comando git Blame, ve quien ha hecho cambios  en un archivo 
