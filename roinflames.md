@@ -63,3 +63,7 @@ Date:   Fri Jul 14 13:15:23 2023 -0400
 
     Initial commit
 ```
+
+GIT BLAME:
+
+Entrega un log con el historial de cambios de un archivo
