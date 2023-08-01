@@ -10,3 +10,4 @@
 2023/07/15: Agregar contenido solicitado al archivo djimenezpalacios12.md
 2023/07/15: Modificación del archivo README.md
 2023/07/15: Agregar contenido para responder pregunta sobre el commando git blame
+2023/07/16: Ignacio Tomasov agrega su tarea
