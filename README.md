@@ -29,3 +29,5 @@ Deje acá lo solicitado en los pasos 7 y 9
 |------|-----|----------|
 |Eduardo Diaz|14 de julio de 2023|73f38606|
 |Carlos Torres|14 de julio de 2023|9117d62|
+|Paula Riffo|15 de julio de 2023|b8dee6d0|
+
