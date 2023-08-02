@@ -38,3 +38,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Rodrigo Tobar|20 de julio de 2023|e4a21cb2|
 |Johann Llanos|20 de julio de 2023|f02af4ac|
 |Luis Díaz|20 de Julio de 2023|0cca998f|
+|Eduardo Galaz|20 de julio de 2023|e0f8cc2f|

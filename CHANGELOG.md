@@ -1,5 +1,16 @@
 # Historial de cambios
 
+## [1.0.0] - 2023-07-21
+
+### Added
+
+- Se agregan datos de Eduardo Galaz en eduardo.galaz.md
+- Se agrega información de git log en eduardo.galaz.md
+- Se agrega el nombre de Eduardo Galaz en README.md
+- Se agrega el identificador de commit de Eduardo Galaz en README.md
+- Se agrega información de git blame en eduardo.galaz.md
+
+
 - 2023/07/20: Se agregan datos de Luis Diaz, se modifica contenido del CHANGELOG y se añade entrada a tabla en README.
 - 2023/07/20: Agrega archivo jllanosf.md y datos tabla en README.md
 - 2023/07/20: Ingresa archivos y modificaciones para la tarea de Rodrigo Tobar.
