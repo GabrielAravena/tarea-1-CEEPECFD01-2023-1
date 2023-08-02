@@ -43,3 +43,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Eduardo Galaz|20 de julio de 2023|e0f8cc2f|
 |Patricia Campos|21 de julio de 2023|4dde1e06|
 |Melquisedec Sierra|21 de julio de 2023|6d2b3648|
+|Victor Vega |07 de julio de 2023|2d9117c8|
