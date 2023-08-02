@@ -1,5 +1,6 @@
 # Historial de cambios
 
+- 2023/07/20: Se agregan datos de Luis Diaz, se modifica contenido del CHANGELOG y se añade entrada a tabla en README.
 - 2023/07/20: Agrega archivo jllanosf.md y datos tabla en README.md
 - 2023/07/20: Ingresa archivos y modificaciones para la tarea de Rodrigo Tobar.
 - 2023/07/19: Se agregan detalles del almuno Diego Sepúlveda, documentando lo solicitado
