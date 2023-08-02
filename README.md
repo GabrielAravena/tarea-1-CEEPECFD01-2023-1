@@ -42,3 +42,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Luis Díaz|20 de Julio de 2023|0cca998f|
 |Eduardo Galaz|20 de julio de 2023|e0f8cc2f|
 |Patricia Campos|21 de julio de 2023|4dde1e06|
+|Melquisedec Sierra|21 de julio de 2023|6d2b3648|
