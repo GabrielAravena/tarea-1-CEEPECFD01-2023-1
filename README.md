@@ -16,16 +16,30 @@ Ejecute los siguientes pasos:
 12. Haga un nuevo commit
 13. En el archivo CHANGELOG.md agregue la fecha y el detalle de los cambios que ha realizado
 14. Haga un nuevo commit
-12. Si estuvo trabajando en su PC asegúrese de hacer un push a su fork (`git push origin main`)
-13. Realize un Pull Request hacia este repo, esa será la forma en que entregará su tarea
-14. Fíjese que en este repo hay un ejemplo ejecutado por el profesor, por si tiene dudas de cómo realizar la tarea
-15. Si las dudas persisten use el foro de u-cursos para realizar sus consultas.
+15. Si estuvo trabajando en su PC asegúrese de hacer un push a su fork (`git push origin main`)
+16. Realize un Pull Request hacia este repo, esa será la forma en que entregará su tarea
+17. Fíjese que en este repo hay un ejemplo ejecutado por el profesor, por si tiene dudas de cómo realizar la tarea
+18. Si las dudas persisten use el foro de u-cursos para realizar sus consultas.
+
+
 
 # Tabla de Respuestas
 
 Deje acá lo solicitado en los pasos 7 y 9
 
-|Nombre|Fecha|Blame Hash|
-|------|-----|----------|
-|Eduardo Diaz|14 de julio de 2023|73f38606|
+| Nombre        | Fecha               | Blame Hash |
+| ------------- | ------------------- | ---------- |
+| Eduardo Diaz  | 14 de julio de 2023 | 73f38606   |
+|Carlos Torres|14 de julio de 2023|9117d62|
+|Paula Riffo|15 de julio de 2023|b8dee6d0|
+| Diego Jiménez | 15 de julio de 2023 | 05c1eea5   |
+|Ignacio Tomasov Silva|16 de julio de 2023|3a33fa56|
+|Seba Gonzalez|17 de julio de 2023|b03017c9|
+|Marbely Graterol|17 de julio de 2023|03e84b9a|
+|Diego Sepúlveda Soto|19 de julio de 2023|200351b7|
+|Rodrigo Tobar|20 de julio de 2023|e4a21cb2|
+|Johann Llanos|20 de julio de 2023|f02af4ac|
+|Luis Díaz|20 de Julio de 2023|0cca998f|
+|Eduardo Galaz|20 de julio de 2023|e0f8cc2f|
+|Patricia Campos|21 de julio de 2023|4dde1e06|
 |Melquisedec Sierra|21 de julio de 2023|6d2b3648|
