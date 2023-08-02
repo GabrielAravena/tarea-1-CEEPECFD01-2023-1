@@ -18,3 +18,4 @@
 2023/07/15: Modificación del archivo README.md
 2023/07/15: Agregar contenido para responder pregunta sobre el commando git blame>>>>>>> main
 2023/07/14: Agrega datos del profe
+2023/07/20: Ingresa archivos y modificaciones para la tarea de Rodrigo Tobar.

@@ -35,3 +35,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Seba Gonzalez|17 de julio de 2023|b03017c9|
 |Marbely Graterol|17 de julio de 2023|03e84b9a|
 |Diego Sepúlveda Soto|19 de julio de 2023|200351b7|
+|Rodrigo Tobar|20 de julio de 2023|e4a21cb2|
