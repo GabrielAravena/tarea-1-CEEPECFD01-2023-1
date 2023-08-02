@@ -48,3 +48,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Esteban Gonzalez|23 julio de 2023|400e2124|
 |Cesar Soto|24 de julio de 2023|b9931c76|
 |David Carvallo|24 de julio de 2023|67ef9cd0|
+|Rodrigo Reyes|24 de julio de 2023|a7809cb7|
