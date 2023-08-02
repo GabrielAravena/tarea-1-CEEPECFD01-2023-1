@@ -21,6 +21,8 @@ Ejecute los siguientes pasos:
 17. Fíjese que en este repo hay un ejemplo ejecutado por el profesor, por si tiene dudas de cómo realizar la tarea
 18. Si las dudas persisten use el foro de u-cursos para realizar sus consultas.
 
+
+
 # Tabla de Respuestas
 
 Deje acá lo solicitado en los pasos 7 y 9
@@ -39,3 +41,4 @@ Deje acá lo solicitado en los pasos 7 y 9
 |Johann Llanos|20 de julio de 2023|f02af4ac|
 |Luis Díaz|20 de Julio de 2023|0cca998f|
 |Eduardo Galaz|20 de julio de 2023|e0f8cc2f|
+|Patricia Campos|21 de julio de 2023|4dde1e06|

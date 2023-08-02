@@ -10,7 +10,7 @@
 - Se agrega el identificador de commit de Eduardo Galaz en README.md
 - Se agrega información de git blame en eduardo.galaz.md
 
-
+- 2023/07/21: Se agrega Archivo PatriciaCampos.md, se cambia README.md y se responden preguntas de acuerdo a instrucciones de la tarea.
 - 2023/07/20: Se agregan datos de Luis Diaz, se modifica contenido del CHANGELOG y se añade entrada a tabla en README.
 - 2023/07/20: Agrega archivo jllanosf.md y datos tabla en README.md
 - 2023/07/20: Ingresa archivos y modificaciones para la tarea de Rodrigo Tobar.
